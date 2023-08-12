@@ -1,0 +1,56 @@
+.chatroom-form {
+       width: 300px;
+       margin: 0 auto;
+       padding: 20px;
+       border: 1px solid #ccc;
+       border-radius: 8px;
+       background-color: #fff;
+     }
+     
+     .chatroom-form input {
+       width: 100%;
+       padding: 8px;
+       margin-bottom: 10px;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+     }
+     
+     .chatroom-form button {
+       padding: 8px 16px;
+       background-color: #007bff;
+       color: #fff;
+       border: none;
+       border-radius: 4px;
+       cursor: pointer;
+     }
+     
+     .chatroom-list {
+       margin-top: 20px;
+     }
+     
+     .chatroom-list h2 {
+       font-size: 16px;
+       margin-bottom: 10px;
+     }
+     
+     .chatroom-list ul {
+       list-style: none;
+       padding: 0;
+     }
+     
+     .chatroom-list li {
+       margin-bottom: 8px;
+     }
+     
+     .chatroom-list button {
+       padding: 6px 12px;
+       background-color: #ccc;
+       border: none;
+       border-radius: 4px;
+       cursor: pointer;
+     }
+     
+     .chatroom-list button:hover {
+       background-color: #ddd;
+     }
+     
